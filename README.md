@@ -1,6 +1,5 @@
 # A-Blog-on-Boosting
 
-
 ### Important topics of the Blog:
 
 Part-1: Introduction of Boosting
